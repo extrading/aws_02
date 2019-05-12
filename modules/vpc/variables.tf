@@ -35,6 +35,6 @@ variable "whitelist_cidr_blocks" {
 }
 
 variable "stack_context" {
-  default = "dev"
+  default     = "dev"
   description = "this is"
 }
